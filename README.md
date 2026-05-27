@@ -1,3 +1,6 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![DOI](https://zenodo.org/badge/314814105.svg)](https://zenodo.org/doi/10.5281/zenodo.20411032)
+
 # Cs-TFSI-PEO molecular system builder
 
 This repository contains tools to generate atomistic molecular dynamics simulation systems of polyethylene oxide (PEO) electrolytes with CsTFSI salt.
