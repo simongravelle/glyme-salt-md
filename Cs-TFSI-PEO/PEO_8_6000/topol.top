@@ -1,0 +1,13 @@
+#include "ff/forcefield.itp"
+#include "ff/peo.itp"
+#include "ff/tfsi.itp"
+#include "ff/cs.itp"
+
+[ System ]
+bulk PEO-CsTFSI system
+
+[ Molecules ]
+
+PEO 93
+TFSI 27
+Cs 27
